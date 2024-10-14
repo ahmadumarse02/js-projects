@@ -1,0 +1,50 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+    box-sizing: border-box;
+    color: white;
+    border: none;
+}
+
+.heading {
+    text-align: center;
+    margin-top: 3rem;
+    font-size: 3rem;
+    color: cornflowerblue;
+}
+
+.canva {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 1rem;
+    margin-top: 3rem;
+}
+
+.button {
+    padding: 0.5rem 1rem;
+    text-align: center;
+    box-shadow: 1rem;
+    box-shadow: 2px 4px 6px rgba(0, 0, 0, 0.3);
+}
+
+#gray {
+    background-color: gray;
+}
+
+#black {
+    background-color: black;
+}
+
+#chocolate {
+    background-color: chocolate;
+}
+
+#chartreuse {
+    background-color: chartreuse;
+}
+
+#red {
+    background-color: red;
+}
